@@ -8,7 +8,7 @@
 ## 2. a function get to get the value of the matrix
 ## 3. a function setinverse() to set (or cache) the inverse of the matrix and
 ## 4. a function getinverse() to get inverse of the matrix which is cached
-## setinverse() returns NULL if inverse of matrix is not cached yet. 
+## setinverse() returns NULL if inverse of matrix is not cached yet.
 
 
 makeCacheMatrix <- function(x = matrix()) {
